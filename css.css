@@ -1,0 +1,208 @@
+
+
+
+/* iPhone 16 Pro - 1 */
+
+position: relative;
+width: 402px;
+height: 814px;
+
+background: #FFAF1B;
+
+
+/* Logo 1 */
+
+position: absolute;
+width: 163.62px;
+height: 154px;
+left: 119px;
+top: 40px;
+
+background: url(Logo.png);
+border-radius: 60px;
+
+
+/* Login */
+
+position: absolute;
+width: 207px;
+height: 33px;
+left: 135px;
+top: 194px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 315px;
+height: 53px;
+left: 45px;
+top: 321px;
+
+background: #FFA86A;
+border-radius: 20px;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 315px;
+height: 51px;
+left: 45px;
+top: 449px;
+
+background: #D9D9D9;
+border-radius: 15px;
+
+
+/* Email addres */
+
+position: absolute;
+width: 122px;
+height: 24px;
+left: 138px;
+top: 338px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 315px;
+height: 51px;
+left: 45px;
+top: 449px;
+
+background: #FFA271;
+border-radius: 20px;
+
+
+/* Password */
+
+position: absolute;
+width: 93px;
+height: 24px;
+left: 138px;
+top: 468px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 315px;
+height: 62px;
+left: 45px;
+top: 616px;
+
+background: #4E1212;
+border-radius: 20px;
+
+
+/* Login */
+
+position: absolute;
+width: 146px;
+height: 78px;
+left: 155px;
+top: 626px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+
+
+
+/* Email 1 */
+
+position: absolute;
+width: 46px;
+height: 46px;
+left: 57px;
+top: 325px;
+
+background: url(Email.png);
+border-radius: 50px;
+
+
+/* Password 1 */
+
+position: absolute;
+width: 36px;
+height: 43px;
+left: 62px;
+top: 453px;
+
+background: url(Password.png);
+border-radius: 25px 25px 0px 0px;
+
+
+/* Forgot Password? */
+
+position: absolute;
+width: 170px;
+height: 24px;
+left: 118px;
+top: 741px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 164px;
+height: 0px;
+left: 119px;
+top: 765px;
+
+border: 1px solid #000000;
+
+
+/* Arrow 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 36px;
+height: 0px;
+left: 270px;
+top: 647px;
+
+border: 2px solid #FFFFFF;
